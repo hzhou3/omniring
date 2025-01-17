@@ -1,6 +1,5 @@
 ## [One Ring to Rule Them All: An Open Source Smartring Platform for Finger Motion Analytics and Healthcare Applications](https://dl.acm.org/doi/abs/10.1145/3576842.3582382)
 
-### Initial version is released. More details are under construction. Please check later.
 
 ## Citing OmniRing
 
